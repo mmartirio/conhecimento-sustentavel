@@ -169,6 +169,10 @@ const styles = StyleSheet.create({
     resizeMode: 'contain',
     marginBottom: 10,
   },
+  btnImageHover: {
+    width: 130,
+    height: 130,
+  },
 });
 
 export default HomeScreen;
